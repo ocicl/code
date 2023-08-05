@@ -2,9 +2,9 @@
 
 
 
-|---------+-------------------------------------------|
-| source  | git:git://git.code.sf.net/p/cl-tap-producer/code   |
-| commit  |   |
-| systems | code |
-|---------+-------------------------------------------|
+727a1cc---------+-------------------------------------------|
+727a1cc source  | git:git://git.code.sf.net/p/cl-tap-producer/code   |
+727a1cc commit  |   |
+727a1cc systems | code |
+727a1cc---------+-------------------------------------------|
 
