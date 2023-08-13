@@ -5,5 +5,5 @@
 |---------+--------------------------------------------------|
 | source  | git:git://git.code.sf.net/p/cl-tap-producer/code |
 | commit  | 727a1cc                                          |
-| systems | code                                             |
+| systems | (mw-equiv)                                       |
 |---------+--------------------------------------------------|
